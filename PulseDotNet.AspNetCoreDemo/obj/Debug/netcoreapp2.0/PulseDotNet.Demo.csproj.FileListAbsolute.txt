@@ -1,0 +1,13 @@
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.csprojResolveAssemblyReference.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.csproj.CoreCompileInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.AssemblyInfoInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.AssemblyInfo.cs
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.Demo.deps.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.Demo.runtimeconfig.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.Demo.runtimeconfig.dev.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.Demo.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.Demo.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/bin/Debug/netcoreapp2.0/PulseDotNet.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Demo/obj/Debug/netcoreapp2.0/PulseDotNet.Demo.pdb

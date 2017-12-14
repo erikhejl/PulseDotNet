@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/erik/code/PulseDotNet/PulseDotNet.AspNetCoreDemo/PulseDotNet.AspNetCoreDemo.csproj",
+    "projectName": "PulseDotNet.AspNetCoreDemo",
+    "projectPath": "/Users/erik/code/PulseDotNet/PulseDotNet.AspNetCoreDemo/PulseDotNet.AspNetCoreDemo.csproj",
+    "outputPath": "/Users/erik/code/PulseDotNet/PulseDotNet.AspNetCoreDemo/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/erik/code/PulseDotNet/PulseDotNet/PulseDotNet.csproj": {
+            "projectPath": "/Users/erik/code/PulseDotNet/PulseDotNet/PulseDotNet.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

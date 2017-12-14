@@ -1,0 +1,9 @@
+/Users/erik/code/PulseDotNet/PulseDotNet/bin/Debug/netstandard2.0/PulseDotNet.deps.json
+/Users/erik/code/PulseDotNet/PulseDotNet/bin/Debug/netstandard2.0/PulseDotNet.dll
+/Users/erik/code/PulseDotNet/PulseDotNet/bin/Debug/netstandard2.0/PulseDotNet.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.csproj.CoreCompileInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.AssemblyInfoInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.AssemblyInfo.cs
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.dll
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet/obj/Debug/netstandard2.0/PulseDotNet.csprojResolveAssemblyReference.cache

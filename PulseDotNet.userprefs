@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EDC700CC-7593-444B-A0C7-28323B1052E5}|">
+  <MonoDevelop.Ide.ItemProperties.Demo.PulseDotNet.AspNetDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PulseDotNet/AppBuilderExtensions.cs">
+    <Files>
+      <File FileName="PulseDotNet.AspNetCoreDemo/RequestCounterMiddleware.cs" Line="23" Column="16" />
+      <File FileName="PulseDotNet/AppBuilderExtensions.cs" Line="1" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PulseDotNet.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

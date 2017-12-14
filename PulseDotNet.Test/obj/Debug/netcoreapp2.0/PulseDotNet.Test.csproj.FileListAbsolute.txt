@@ -1,0 +1,16 @@
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.Test.deps.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.Test.runtimeconfig.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.Test.runtimeconfig.dev.json
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.Test.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.Test.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/bin/Debug/netcoreapp2.0/PulseDotNet.pdb
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.csprojResolveAssemblyReference.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.csproj.CoreCompileInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.AssemblyInfoInputs.cache
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.AssemblyInfo.cs
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.dll
+/Users/erik/code/PulseDotNet/PulseDotNet.Test/obj/Debug/netcoreapp2.0/PulseDotNet.Test.pdb
